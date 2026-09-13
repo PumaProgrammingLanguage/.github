@@ -35,8 +35,8 @@ Compiler Development:
 •	Development has began on the Puma compiler — a three-phase quest to bring the language to life. 
 - Phase one focuses on building a translator that converts Puma code into C/C++, enabling rapid prototyping and integration. 
 - In phase two, the compiler becomes self-hosting, getting rewritten entirely in the Puma language. 
-- The final phase replaces C/C++ as an intermediate language with direct generation of LLVM IR for streamlined performance and advanced tooling integration. 
-•	The Puma compiler will evolve from here.
+- The final phase replaces C/C++ as an intermediate language with direct generation of LLVM IR for streamlined performance and advanced tooling integration.
+- The Puma compiler will evolve from here.
 
 Standard Library:
-•	A comprehensive standard library will accompany the compiler, designed for both power and simplicity. With an emphasis on ease of use, the library will feature intuitive APIs and smart defaults—streamlining the most common use cases. Whether you're building tools or applications, Puma’s standard library will help you do more with less effort.
+A comprehensive standard library will accompany the compiler, designed for both power and simplicity. With an emphasis on ease of use, the library will feature intuitive APIs and smart defaults—streamlining the most common use cases. Whether you're building tools or applications, Puma’s standard library will help you do more with less effort.
