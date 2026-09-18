@@ -32,7 +32,7 @@ Advanced Capabilities:
 -	An exception handling system that catches all exception
 
 Compiler Development:
-Development has began on the Puma compiler — a three-phase quest to bring the language to life. 
+Development has begun on the Puma compiler — a three-phase quest to bring the language to life. 
 - Phase one focuses on building a translator that converts Puma code into C/C++, enabling rapid prototyping and integration. 
 - In phase two, the compiler becomes self-hosting, getting rewritten entirely in the Puma language. 
 - The final phase replaces C/C++ as an intermediate language with direct generation of LLVM IR for streamlined performance and advanced tooling integration.
